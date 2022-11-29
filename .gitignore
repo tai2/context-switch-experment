@@ -1,0 +1,5 @@
+*.o
+switch_thread
+pingpong_thread
+switch_process
+pingpong_process
